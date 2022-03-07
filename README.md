@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
+
    <style>
        .parent{
            background-color:hsla(200, 100%, 20%);
@@ -43,10 +41,8 @@
             }
        }
     </style>
-  </head>
-  <body>
+
     <div class="parent">
       <div class ="child"></div>
     </div>
-  </body>
-  </html>
+
